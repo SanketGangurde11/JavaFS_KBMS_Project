@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Sanket Gangurde
+Build-Jdk: 17.0.5
+Main-Class: com.poms.app.Application
+Created-By: Maven Integration for Eclipse
+
